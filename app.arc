@@ -5,3 +5,5 @@ begin-app
 
 @http
 get /api
+get /about
+post /form
